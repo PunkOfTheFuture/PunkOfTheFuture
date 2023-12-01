@@ -15,4 +15,4 @@
 
 
 
-![alt text](http://avatars.dzeninfra.ru/get-zen_doc/4757752/pub_62fbe1c2d4d34f5b392efc7d_62fe461647c95b040e1a1e00/scale_1200/to/img.png)
+![Screenshot](scale_1200.jfif)
